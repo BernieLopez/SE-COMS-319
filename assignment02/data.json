@@ -1,0 +1,52 @@
+{
+    "cars" : [
+        {
+            "id" : "civic",
+            "name" : "2023 Honda Civic",
+            "vehicle_type" : "Sedan",
+            "msrp" : "Starting MSRP: $25,050",
+            "mpg" : "City/Highway miles per gallon: 30/37",
+            "img" : "./images/civic.png"
+        },
+        {
+            "id" : "odyssey",
+            "name" : "2023 Honda Odyssey",
+            "vehicle_type" : "Minivan",
+            "msrp" : "Starting MSRP: $37,490",
+            "mpg" : "City/Highway miles per gallon: 19/28",
+            "img" : "./images/odyssey.png"
+        },
+        {
+            "id" : "ridgeline",
+            "name" : "2023 Honda Ridgeline",
+            "vehicle_type" : "Pickup Truck",
+            "msrp" : "Starting MSRP: $38,800",
+            "mpg" : "City/Highway miles per gallon: 18/24",
+            "img" : "./images/ridgeline.png"
+        },
+        {
+            "id" : "hr-v",
+            "name" : "2023 Honda HR-V",
+            "vehicle_type" : "Crossover",
+            "msrp" : "Starting MSRP: $23,800",
+            "mpg" : "City/Highway miles per gallon: 26/32",
+            "img" : "./images/hr-v.png"
+        },
+        {
+            "id" : "cr-v",
+            "name" : "2023 Honda CR-V",
+            "vehicle_type" : "SUV",
+            "msrp" : "Starting MSRP: $31,610",
+            "mpg" : "City/Highway miles per gallon: 28/34",
+            "img" : "./images/cr-v.png"
+        },
+        {
+            "id" : "pilot",
+            "name" : "2023 Honda Pilot",
+            "vehicle_type" : "SUV",
+            "msrp" : "Starting MSRP: $39,150",
+            "mpg" : "City/Highway miles per gallon: 19/27",
+            "img" : "./images/pilot.png"
+        }
+    ]
+}
